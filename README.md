@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Lucas
+# 👋 ¡Hola, bienvenido/a a mi GitHub!
 
 Soy un apasionado ingeniero informático graduado en la **Universidade da Coruña**, con especialización en **Ingeniería del Software**. Mi trayectoria educativa y profesional me ha permitido contar con un amplio conocimiento en el campo de la programación y el desarrollo de software.
 
