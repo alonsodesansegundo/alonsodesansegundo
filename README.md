@@ -34,9 +34,9 @@ De todos los aspectos que he abordado hasta ahora, mis áreas de mayor interés 
 
 ¡No dudes en ponerte en contacto conmigo! Siempre esttoy abierto a nuevas oportunidades y colaboraciones.
 
-- [LinkedIn](https://www.linkedin.com/in/alonsolucas/)
-- [GitHub](https://github.com/alonsodesansegundo)
-- [Email](alonsodesansegundo@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/alonsolucas/
+- **GitHub:** https://github.com/alonsodesansegundo
+- **Email:**lonsodesansegundo@gmail.com
 
 ---
 
