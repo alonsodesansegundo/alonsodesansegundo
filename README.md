@@ -41,5 +41,3 @@ De todos los aspectos que he abordado hasta ahora, mis áreas de mayor interés 
 ---
 
 ¡Un saludo y muchas gracias por visitar mi perfil!
-Lucas Alonso
-
